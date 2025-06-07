@@ -13,4 +13,11 @@ I made this keybard as a fun project for Hack Club's Hackboard program, but more
 
 ![image](https://github.com/user-attachments/assets/2f8f010f-ad13-4be0-add0-9840c4feec10)
 
+## Bill of Materials (BOM)
+| Item    | Quantity |
+| :-------- | :-------: |
+| Any MX style keyswitches (I used Gateron Oil Kings) |    |
+| Any set of keycaps | $80     |
+| March    | $420    |
+
 Enjoy!!
