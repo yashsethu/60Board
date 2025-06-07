@@ -16,8 +16,13 @@ I made this keybard as a fun project for Hack Club's Hackboard program, but more
 ## Bill of Materials (BOM)
 | Item    | Quantity |
 | :-------- | :-------: |
-| Any MX style keyswitches (I used Gateron Oil Kings) |    |
-| Any set of keycaps | $80     |
-| March    | $420    |
+| Any MX style keyswitches (I used Gateron Oil Kings) |  64  |
+| SSD1306 1.9" OLED | 1  |
+| Rotary Encoder (preferably short)    | 1    |
+| Keycap set (I liked the Soymilk KOA set) | 1 |
+| Orpheus Pico (or Raspberry Pi Pico) | 1 |
+| Stabilizer set (Generic Gateron) | 1 |
+| Case (Printed) | 1 |
+| PCB (JLPCB, PCBWay) | 1 |
 
 Enjoy!!
