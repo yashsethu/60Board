@@ -1,7 +1,5 @@
 # 60Board
-A low cost, sleek, and custom 60% keyboard!
-
-I made this keybard as a fun project for Hack Club's Hackboard program, but moreso to work on my PCB skills and make a cool new keyboard! 
+A low cost, sleek, and custom 60% keyboard! 
 
 ![Assembly 1 (1)](https://github.com/user-attachments/assets/711f8fc1-a96a-4c94-b9c2-9c1a677027f7)
 
@@ -14,15 +12,15 @@ I made this keybard as a fun project for Hack Club's Hackboard program, but more
 ![image](https://github.com/user-attachments/assets/2f8f010f-ad13-4be0-add0-9840c4feec10)
 
 ## Bill of Materials (BOM)
-| Item    | Quantity |
-| :-------- | :-------: |
-| Any MX style keyswitches (I used Gateron Oil Kings) |  64  |
-| SSD1306 1.9" OLED | 1  |
-| Rotary Encoder (preferably short)    | 1    |
-| Keycap set (I liked the Soymilk KOA set) | 1 |
-| Orpheus Pico (or Raspberry Pi Pico) | 1 |
-| Stabilizer set (Generic Gateron) | 1 |
-| Case (Printed) | 1 |
-| PCB (JLPCB, PCBWay) | 1 |
+|    Item    | Quantity | Vendor | Total Price |
+| :-------- | :-------: | :----- | ----------: |
+| Any MX style keyswitches (I used Gateron Milky Yellow Pros) |  64  |  Gateron site | $16.10 |
+| SSD1306 1.9" OLED | 1  | Amazon | $6.99 |
+| Rotary Encoder (preferably short)    | 1    | Aliexpress | $1.55 | 
+| Keycap set (I liked the Soymilk KOA set) | 1 | Amazon | $26.99 |
+| Orpheus Pico (or Raspberry Pi Pico 2) | 1 | Amazon | $4.95 |
+| Stabilizer set (Generic Gateron) | 1 | Amazon | $8.99 |
+| Case (Printed) | 1 | My printer | N/A |
+| PCB (JLPCB, PCBWay) | 1 | PCBWay (for me) | $82.57 |
 
-Enjoy!!
+**Total Price:** $148.14
