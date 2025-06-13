@@ -1,5 +1,7 @@
 # 60Board
-A low cost, sleek, and custom 60% keyboard! 
+A low cost, sleek, and custom 60% keyboard!
+
+I made this program for Hack Club's Hackboard (Hackpad) and Highway programs, but moreso to learn more about PCB design! Also, the ducky I use regularly is starting to get a little old, so this would be the perfect replacement! 
 
 ![Assembly 1 (1)](https://github.com/user-attachments/assets/711f8fc1-a96a-4c94-b9c2-9c1a677027f7)
 
