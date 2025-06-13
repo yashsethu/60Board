@@ -89,3 +89,22 @@ I started with the plate of the keyboard. Using Onshape's project tool and some 
 
 ![image](https://github.com/user-attachments/assets/436bd3d1-b1d8-43bf-90d5-1c7ca03e99b9)
 
+After extruding those, I was able to use the same sketch for the top, with this as a result:
+
+<img width="1142" alt="image" src="https://github.com/user-attachments/assets/5277296b-ef86-4b75-84c8-c9ab3c250f5e" />
+
+Then, I used a very careful approach to make the bottom, fitting with the board perfectly
+
+<img width="1133" alt="image" src="https://github.com/user-attachments/assets/f57043c7-d8ad-4d86-ad4b-7b0aa5ead066" />
+
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/f253f640-0896-491e-9f53-51d2cb1869ef" />
+
+With a few chamfers and fillets, my case is done!
+
+<img width="1196" alt="image" src="https://github.com/user-attachments/assets/c2c88154-bb40-4df4-a155-0292e6edee71" />
+
+## Firmware
+Since QMK makes it so easy, I will spare explaining every bit of firmware, but I used the SSD1306 driver within the code to make the OLED work. Pretty cool!
+
+
+
