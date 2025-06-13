@@ -2,6 +2,8 @@
 
 I started designing 60Board with the key layout. Using a cool tool called the [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/), I made a nice 60% layout with enough space.
 
+Total time: 30 hrs
+
 ![image](https://github.com/user-attachments/assets/394dafec-1506-4745-b478-2bc3caff9872)
 
 Notice that I left enough space on the right for a display, along with the "Insert" key as a placeholder for a rotary encoder later on. 
@@ -20,7 +22,7 @@ Then, I fed that data into a [keyboard schematic generator](https://kb.xyz.is/) 
 
 ![image](https://github.com/user-attachments/assets/ba749c06-b3da-4128-9157-b949da774761)
 
-## Schematic
+## Schematic: 5 hrs
 Alright, so we can finally move on to the actual keyboard development, starting with the schematic. 
 
 The easiest part first, the key layout:
@@ -38,7 +40,7 @@ Notes:
 - The rows and columns are assigned with great detail to ensure PCB routing is easy. That means that I ensured that the higher rows were assigned to GPIO pins higher up on the microcontroller, and ensured rows side by side were assigned appropriate pins
 - An OLED display has been added, with a 4-pin header as a placeholder. The outputs have been respectively pulled up with THT resistors.
 
-## PCB
+## PCB: 15 hrs
 The PCB will be significantly harder, so let's get started!
 
 Instantly, when booting up the PCB from the generator, we notice a few things wrong:
@@ -82,7 +84,7 @@ Notice these details:
 
 My PCB is finally done! Now, I can get to designing the case. 
 
-## Case
+## Case: 10 hrs
 The case of the 60Board is arguably the most well thought out. It has been optimized into a 3-part, sandwich mount style with heat-press inserts, along with significant detail to tolerances along with an angled bottom for ergonomics. 
 
 I started with the plate of the keyboard. Using Onshape's project tool and some ingenuity with dimensions, this was fairly simple.
